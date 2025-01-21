@@ -1,4 +1,4 @@
-# Challenge : Branche "view"
+# Challenge : Branche `view`
 
 ## Description
 Cette branche `view` a pour but de créer une vue dans la base de données via dbt (Data Build Tool). Le but est d’améliorer l’accessibilité et la lisibilité des données en structurant les informations de manière optimisée.
