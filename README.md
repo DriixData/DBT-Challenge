@@ -34,3 +34,20 @@ Cette branche `view` a pour but de créer une vue dans la base de données via d
 ```
 
 🎉🎉🎉
+
+## Structure du dossier `models/staging`
+
+Cette section du projet dbt contient les modèles de staging, qui servent à préparer les données brutes avant leur transformation finale.
+
+Les fichiers sont organisés comme suit :
+
+```md
+models/
+└── staging/
+    ├── sources.yml
+    ├── stg_customers.sql
+    ├── stg_customers.yml
+    ├── stg_orders.sql
+    └── stg_orders.yml
+```
+
