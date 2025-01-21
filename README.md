@@ -53,3 +53,9 @@ Assurez-vous d'avoir installé les éléments suivants sur votre machine :
          threads: 4
      target: dev
    ```
+
+
+## Liens utiles
+
+- [Documentation dbt](https://docs.getdbt.com/)
+- [Bonnes pratiques de modélisation dbt](https://docs.getdbt.com/docs/guides/best-practices)
