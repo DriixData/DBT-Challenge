@@ -10,13 +10,11 @@ Ce projet s'inscrit dans le cadre de ma formation de Data Analyst et explore l'u
 - **dbt-mysql** : pour connecter dbt à une base de données MySQL
 - **MySQL** : base de données relationnelle utilisée pour stocker et manipuler les données
 
-## Fonctionnalités
+## Objectif
 
 - Connexion à une base de données MySQL via dbt
-- Définition et exécution de modèles de transformation SQL
 - Gestion des dépendances et du versionnement avec dbt
-- Génération de documentation automatique sur les transformations
-- Vérification de la qualité des données avec les tests dbt
+
 
 ## Installation
 
