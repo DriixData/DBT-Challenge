@@ -15,6 +15,7 @@ Ce projet s'inscrit dans le cadre de ma formation de Data Analyst et explore l'u
 - Connexion à une base de données `MySQL` via `dbt`
 - Gestion des dépendances et du versionnement avec `dbt`
 - Sur la branche [`view`](https://github.com/DriixData/DBT-Challenge/tree/view), l'objectif était de définir et de générer plusieurs vues de la base de données en configurant précisément les fichiers de modèle `yaml` et `sql`, puis en les déployant à l'aide de la commande `dbt run`.
+- Sur la branche [`test`](https://github.com/DriixData/DBT-Challenge/tree/test), le but était de lancer plusieurs test afin de vérifier l'intégrité de la base de données à l'aide de la commande `dbt test`.
 
 
 ## Installation
