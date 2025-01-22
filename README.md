@@ -12,7 +12,7 @@ Cette branche `test` a été utilisée pour exécuter des tests de qualité des 
 
 ## Résultat de la console
 
-```css
+```shell
 (dbt1) cedric@MacBook-Pro dbt_challenge_s17 % dbt test
 15:05:41  Running with dbt=1.7.9
 15:05:42  Registered adapter: mysql=1.7.0
@@ -41,7 +41,7 @@ Cette branche `test` a été utilisée pour exécuter des tests de qualité des 
 15:05:42  
 15:05:42  Finished running 9 tests in 0 hours 0 minutes and 0.43 seconds (0.43s).
 15:05:42  
-15:05:42  Completed successfully
+15:05:42  ✅ Completed successfully
 15:05:42  
 15:05:42  Done. PASS=9 WARN=0 ERROR=0 SKIP=0 TOTAL=9
 ```
